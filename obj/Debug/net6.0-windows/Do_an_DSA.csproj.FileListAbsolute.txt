@@ -1,0 +1,28 @@
+C:\Users\baovy\Downloads\files (1)\bin\Debug\net6.0-windows\Do_an_DSA.exe
+C:\Users\baovy\Downloads\files (1)\bin\Debug\net6.0-windows\Do_an_DSA.deps.json
+C:\Users\baovy\Downloads\files (1)\bin\Debug\net6.0-windows\Do_an_DSA.runtimeconfig.json
+C:\Users\baovy\Downloads\files (1)\bin\Debug\net6.0-windows\Do_an_DSA.dll
+C:\Users\baovy\Downloads\files (1)\bin\Debug\net6.0-windows\Do_an_DSA.pdb
+C:\Users\baovy\Downloads\files (1)\obj\Debug\net6.0-windows\Do_an_DSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baovy\Downloads\files (1)\obj\Debug\net6.0-windows\Do_an_DSA.AssemblyInfoInputs.cache
+C:\Users\baovy\Downloads\files (1)\obj\Debug\net6.0-windows\Do_an_DSA.AssemblyInfo.cs
+C:\Users\baovy\Downloads\files (1)\obj\Debug\net6.0-windows\Do_an_DSA.csproj.CoreCompileInputs.cache
+C:\Users\baovy\Downloads\files (1)\obj\Debug\net6.0-windows\Do_an_DSA.dll
+C:\Users\baovy\Downloads\files (1)\obj\Debug\net6.0-windows\refint\Do_an_DSA.dll
+C:\Users\baovy\Downloads\files (1)\obj\Debug\net6.0-windows\Do_an_DSA.pdb
+C:\Users\baovy\Downloads\files (1)\obj\Debug\net6.0-windows\Do_an_DSA.genruntimeconfig.cache
+C:\Users\baovy\Downloads\files (1)\obj\Debug\net6.0-windows\ref\Do_an_DSA.dll
+C:\Users\baovy\Downloads\Đồ án DSA\bin\Debug\net6.0-windows\Do_an_DSA.exe
+C:\Users\baovy\Downloads\Đồ án DSA\bin\Debug\net6.0-windows\Do_an_DSA.deps.json
+C:\Users\baovy\Downloads\Đồ án DSA\bin\Debug\net6.0-windows\Do_an_DSA.runtimeconfig.json
+C:\Users\baovy\Downloads\Đồ án DSA\bin\Debug\net6.0-windows\Do_an_DSA.dll
+C:\Users\baovy\Downloads\Đồ án DSA\bin\Debug\net6.0-windows\Do_an_DSA.pdb
+C:\Users\baovy\Downloads\Đồ án DSA\obj\Debug\net6.0-windows\Do_an_DSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baovy\Downloads\Đồ án DSA\obj\Debug\net6.0-windows\Do_an_DSA.AssemblyInfoInputs.cache
+C:\Users\baovy\Downloads\Đồ án DSA\obj\Debug\net6.0-windows\Do_an_DSA.AssemblyInfo.cs
+C:\Users\baovy\Downloads\Đồ án DSA\obj\Debug\net6.0-windows\Do_an_DSA.csproj.CoreCompileInputs.cache
+C:\Users\baovy\Downloads\Đồ án DSA\obj\Debug\net6.0-windows\Do_an_DSA.dll
+C:\Users\baovy\Downloads\Đồ án DSA\obj\Debug\net6.0-windows\refint\Do_an_DSA.dll
+C:\Users\baovy\Downloads\Đồ án DSA\obj\Debug\net6.0-windows\Do_an_DSA.pdb
+C:\Users\baovy\Downloads\Đồ án DSA\obj\Debug\net6.0-windows\Do_an_DSA.genruntimeconfig.cache
+C:\Users\baovy\Downloads\Đồ án DSA\obj\Debug\net6.0-windows\ref\Do_an_DSA.dll
